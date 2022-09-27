@@ -1,0 +1,9 @@
+div{
+    opacity: 0;
+}
+
+div.permahover {
+    display: grid;
+    place-items: center;
+    opacity: 1;
+}
